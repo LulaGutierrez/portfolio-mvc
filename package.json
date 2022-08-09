@@ -1,0 +1,16 @@
+{
+  "name": "mi-porfolio-mvc",
+  "version": "1.0.0",
+  "description": "proyecto mvc",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Luján Gutiérrez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
